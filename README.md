@@ -1,8 +1,8 @@
 ![I am abe-ib](https://github.com/abe-ib/abe-ib/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm Khalil</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">Learner at Hablu Programmer</h4>
 
 <div align="center">
 
